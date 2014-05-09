@@ -1,0 +1,11 @@
+table{
+     margin-left: -5em;
+}
+
+table, td {
+     border: 1px solid red;
+}
+
+th, td {
+     text-align: center;
+}
