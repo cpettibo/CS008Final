@@ -5,7 +5,7 @@
 <article id="main">
     
     <link rel="stylesheet"
-	  href="style.css"
+	  href="style2.css"
       media="screen">
 
 <h1>Game Schedule</h1>
